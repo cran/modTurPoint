@@ -1,0 +1,10 @@
+72f4737ec293fbaf7ea77dc97cb99ee6 *DESCRIPTION
+ed95aceb9e06e8f27134a0c1346f67a7 *NAMESPACE
+18d648a701631697fbe372d24f63e3dd *R/groupS.R
+bf341e28eb3d4614848c361c4446ab27 *R/groupSN.R
+a6e39afabeaeda66a461f782390e56e9 *R/modTurPoint.R
+e031efbf6145b420c7f6ad6eab33483d *data/groupS.rda
+dcd4813d874abd32b6f5c8f3fc72ae9b *data/groupSN.rda
+d744d14cef6e8ef86cde42913f9cf88e *man/groupS.Rd
+998fcf0834a1911cb974ab080e2c008d *man/groupSN.Rd
+3b201db3a3d97113790144a0c18c9bbf *man/modTurPoint.Rd
